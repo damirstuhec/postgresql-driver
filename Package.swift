@@ -12,7 +12,7 @@ let package = Package(
         .package(url: "https://github.com/vapor-community/postgresql.git", .upToNextMajor(from: "2.1.0")),
 
         // Swift models, relationships, and querying for NoSQL and SQL databases
-        .package(url: "https://github.com/vapor/fluent.git", .upToNextMajor(from: "2.4.0")),
+        .package(url: "https://github.com/vapor/fluent.git", .upToNextMajor(from: "2.4.1")),
 
         // Random number generation
         .package(url: "https://github.com/vapor/random.git", .upToNextMajor(from: "1.2.0"))
